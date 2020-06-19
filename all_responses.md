@@ -1,3 +1,8 @@
+# Received Submission
+```
+Thank you very much for your report. We are currently reviewing it and will get back to you as soon as possible.
+```
+
 # Ability to create external links
 ```
 Thank you for reporting a potential issue to us. Currently, we do not plan on changing this behaviour. The ability to create external links is a fundamental part of the web and users are educated to wary of what they click on while browsing.

@@ -85,6 +85,13 @@ Thank you for the report. We do not believe that this issue has a sufficient imp
 
 Keep up the good work and we look forward to more reports from you in the future!
 ```
+# Duplicate submission
+```
+Thank you for notifying us about this potential issue. This issue has been previously reported by another researcher.
+
+Keep up the good work and we look forward to more reports from you in the
+future!
+```
 
 # Disclosure of `robots.txt` file
 ```
